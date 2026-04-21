@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Node Dashboard</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <h2>My Dashboard</h2>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Metrics</a>
+      <a href="#">Settings</a>
+    </nav>
+  </header>
+
+  <div class="container">
+
+    <aside class="sidebar">
+      <ul>
+        <li>📊 Dashboard</li>
+        <li>📦 Projects</li>
+        <li>⚙️ Settings</li>
+      </ul>
+    </aside>
+
+    <main class="content">
+      <h1>Overview</h1>
+
+      <div class="cards">
+        <div class="card">
+          <h3>Users</h3>
+          <p><%= users %></p>
+        </div>
+
+        <div class="card">
+          <h3>Revenue</h3>
+          <p><%= revenue %></p>
+        </div>
+
+        <div class="card">
+          <h3>Errors</h3>
+          <p><%= errors %></p>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>© 2026 Node Dashboard</p>
+  </footer>
+
+</body>
+</html>
