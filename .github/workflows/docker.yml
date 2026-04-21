@@ -22,6 +22,9 @@ jobs:
       uses: docker/metadata-action@v5
       with:
         images: ${{ secrets.DOCKER_USERNAME }}/nodejs-dashboard-devops
+        tags: |
+          type=row, value=latest
+          type=sha
         
     - name: Build and push Docker image
       uses: docker/build-push-action@v5
