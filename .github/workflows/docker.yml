@@ -23,7 +23,7 @@ jobs:
       with:
         images: ${{ secrets.DOCKER_USERNAME }}/nodejs-dashboard-devops
         tags: |
-          type=row, value=latest
+          type=raw,value=latest
           type=sha
         
     - name: Build and push Docker image
