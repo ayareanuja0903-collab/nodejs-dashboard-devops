@@ -54,7 +54,6 @@ Code Commit → GitHub → GitHub Actions
 ```bash
 # Clone repository
 git clone https://github.com/ayareanuja0903-collab/nodejs-dashboard-devops.git
-
 # Build Docker image
 docker build -t nodejs-dashboard .
 
