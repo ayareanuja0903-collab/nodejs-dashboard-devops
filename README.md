@@ -9,12 +9,13 @@
 
 Production-style DevOps project demonstrating CI/CD automation, containerization, and deployment using modern tools.
 
-🌟 Project Highlights
-🔥 Built a fully automated CI/CD pipeline using GitHub Actions
-🐳 Containerized application with Docker for consistent deployment
-🚀 Implemented end-to-end workflow from code commit to running application
-📦 Integrated Docker Hub for image versioning and storage
-🌐 Successfully deployed and accessed via browser
+🌟 Project Highlights<br/>
+
+🔥 Built a fully automated CI/CD pipeline using GitHub Actions<br/>
+🐳 Containerized application with Docker for consistent deployment<br/>
+🚀 Implemented end-to-end workflow from code commit to running application<br/>
+📦 Integrated Docker Hub for image versioning and storage<br/>
+🌐 Successfully deployed and accessed via browser<br/>
 
 🧠 What This Project Proves
 
@@ -68,12 +69,12 @@ docker run -d -p 3000:3000 nodejs-dashboard
 ✅ Ensured consistent environment using containers
 ✅ Improved development-to-deployment efficiency
 
-💡 Key Learnings
+💡 Key Learnings<br/>
 
-* CI/CD pipeline design and automation
-* Docker image lifecycle management
-* Debugging container & networking issues
-* Real-world DevOps workflow implementation
+* CI/CD pipeline design and automation<br/>
+* Docker image lifecycle management<br/>
+* Debugging container & networking issues<br/>
+* Real-world DevOps workflow implementation<br/>
 
 🚧 Challenges & Solutions
 
