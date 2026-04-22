@@ -62,12 +62,12 @@ docker build -t nodejs-dashboard .
 docker run -d -p 3000:3000 nodejs-dashboard
 ```
 
-📈 Key Achievements
+📈 Key Achievements<br/>
 
-✅ Automated build & deployment pipeline
-✅ Reduced manual deployment effort to zero
-✅ Ensured consistent environment using containers
-✅ Improved development-to-deployment efficiency
+✅ Automated build & deployment pipeline<br/>
+✅ Reduced manual deployment effort to zero<br/>
+✅ Ensured consistent environment using containers<br/>
+✅ Improved development-to-deployment efficiency<br/>
 
 💡 Key Learnings<br/>
 
