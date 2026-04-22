@@ -53,7 +53,7 @@ Code Commit → GitHub → GitHub Actions
 ▶️ Quick Start (Run Locally)
 ```bash
 # Clone repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ayareanuja0903-collab/nodejs-dashboard-devops.git
 
 # Build Docker image
 docker build -t nodejs-dashboard .
