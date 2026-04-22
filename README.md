@@ -47,7 +47,7 @@ Code Commit → GitHub → GitHub Actions
 🏗️ Architecture Overview
 
 <p>
-  <img width="800" height="800" align="center" src="https://github.com/user-attachments/assets/9a5e7872-010c-4e90-8608-12bc29941b74">
+  <img width="1600" height="800" align="center" src="https://github.com/user-attachments/assets/9a5e7872-010c-4e90-8608-12bc29941b74">
 </p>
 
 ▶️ Quick Start (Run Locally)
