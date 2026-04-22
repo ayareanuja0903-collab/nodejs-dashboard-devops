@@ -1,6 +1,6 @@
 🚀 Node.js Dashboard | End-to-End DevOps CI/CD Pipeline
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/ayareanuja0903-collab/nodejs-dashboard-devops/docker-image.yml?branch=main)
+![Build Status](https://img.shields.io/github/actions/workflow/status/ayareanuja0903-collab/nodejs-dashboard-devops/docker.yml?branch=main)
 ![Docker Pulls](https://img.shields.io/docker/pulls/anujaayare/nodejs-dashboard-devops)
 ![Docker Image Size](https://img.shields.io/docker/image-size/anujaayare/nodejs-dashboard-devops/latest)
 ![Repo Size](https://img.shields.io/github/repo-size/ayareanuja0903-collab/nodejs-dashboard-devops)
